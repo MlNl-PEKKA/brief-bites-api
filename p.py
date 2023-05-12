@@ -1,0 +1,2 @@
+p = "The film is promoted as \u2018Witness the valor of the Pandias\u2019, but the film is never approached that way.The narrative is contradictory to how it is publicized, yes the Pandias won the battle at the end, but most of the movie stresses on the bravery of the Einer clan.The making is very promising, for the budget it is made in, the grandeur is visible in the visuals."
+print(p)
